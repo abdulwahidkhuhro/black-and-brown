@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "218832482960",
-    "project_id": "black-n-brown-35a2a",
-    "storage_bucket": "black-n-brown-35a2a.appspot.com"
+    "project_number": "895375913416",
+    "project_id": "black-and-brown-eee70",
+    "storage_bucket": "black-and-brown-eee70.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:218832482960:android:7370d81a397d08628c1e15",
+        "mobilesdk_app_id": "1:895375913416:android:6bc374eb1ac2292db210fd",
         "android_client_info": {
-          "package_name": "com.hamad.black_n_brown"
+          "package_name": "com.wahid.black_n_brown"
         }
       },
       "oauth_client": [
         {
-          "client_id": "218832482960-1mrk0f7vl3dkepg9rfll8r2b7pugpv5r.apps.googleusercontent.com",
+          "client_id": "895375913416-on4nhifst0s9ede5maqr735c4t95qk93.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCkb1VCLC1Pvzv3fgYJQzQF4aZmIX2gOtU"
+          "current_key": "AIzaSyAXvWv_TDWpxHhiM0Xx5n-pBo6AlposHo8"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "218832482960-1mrk0f7vl3dkepg9rfll8r2b7pugpv5r.apps.googleusercontent.com",
+              "client_id": "895375913416-on4nhifst0s9ede5maqr735c4t95qk93.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

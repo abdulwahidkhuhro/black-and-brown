@@ -44,7 +44,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.hamad.black_n_brown"
+        applicationId "com.wahid.black_n_brown"
 //        minSdkVersion flutter.minSdkVersion
         minSdkVersion 20
 //        targetSdkVersion flutter.targetSdkVersion
